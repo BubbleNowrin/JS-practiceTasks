@@ -1,4 +1,4 @@
-
+//reverse a string 
 
 function reverseString(text) {
     let reverse = '';

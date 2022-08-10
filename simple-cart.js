@@ -1,3 +1,5 @@
+//simple cart problem to show the totalcost
+
 let shoppingCart = [
     { name: 'shirt', price: 2200 },
     { name: 'pant', price: 3200 },

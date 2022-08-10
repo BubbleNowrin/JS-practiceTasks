@@ -1,3 +1,5 @@
+//remove the duplicate from array
+
 let names = ['abul', 'babul', 'kabul', 'chabul', 'dabul', 'abul', 'kabul', 'gabul', 'fabul', 'chabul'];
 
 function removeDuplicate(names) {

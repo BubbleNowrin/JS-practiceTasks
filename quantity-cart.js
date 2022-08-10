@@ -1,3 +1,5 @@
+//complex shopping cart problem to count the totalcost
+
 let shoppingCart = [
     { name: 'shirt', price: 2200, quantity: 2 },
     { name: 'pant', price: 3200, quantity: 5 },

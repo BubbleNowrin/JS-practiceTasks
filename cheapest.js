@@ -1,3 +1,5 @@
+//show the cheapest one as output
+
 let phones = [
     { name: 'samsung', camera: '23', price: '50000', color: 'black' },
     { name: 'iphone', camera: '27', price: '990000', color: 'black' },

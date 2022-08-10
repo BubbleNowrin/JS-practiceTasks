@@ -1,3 +1,5 @@
+//compare 2 strings
+
 const userName = 'Blackpink';
 const userInput = 'BlackpinK';
 

@@ -2,6 +2,9 @@
 //table 10cft
 //bed 50cft
 
+//quantity input
+//show the total amount of wood required
+
 
 function woodRequirement(chairQuantity, tableQuantity, bedQuantity) {
     const perChair = 3;

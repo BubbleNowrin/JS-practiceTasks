@@ -1,4 +1,4 @@
-
+//word-based reverse of a string
 
 function reverseString(text) {
 

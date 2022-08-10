@@ -1,3 +1,6 @@
+//show the max number in an array
+
+
 const heights = [165, 666, 190, 180, 170, 265, 180, 230, 555];
 let largest = heights[0];
 function maxInArray(height) {

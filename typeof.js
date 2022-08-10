@@ -1,3 +1,5 @@
+//typeof variable
+
 let a = 'tumi bondhu kala pakhi';
 var age = 23;
 var isIndependent = true;
