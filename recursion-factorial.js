@@ -6,3 +6,4 @@ function factorial(i) {
 }
 
 console.log(factorial(5));
+
